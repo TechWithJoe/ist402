@@ -10,6 +10,7 @@ A front end developer works on "front end" code in an application, commonly mean
 ## HTML
 
 
+
 ## CSS
 
 
@@ -65,6 +66,10 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## LitElement
+Lit Element is a simple basedclass for creating web components that work in any webpage in any framework. LitElement does this by using HTML to render into shadow DOM, and adds API to manage properties and attributes. These properties are observed by default, and the elements are update asynchronously when their properties change.
+- [LitElement Definiton](https://lit-element.polymer-project.org/guide#:~:text=LitElement%20is%20a%20simple%20base,to%20manage%20properties%20and%20attributes.) 
+- [example] (https://github.com/Polymer/lit-element)
+- [Web components.com] (https://www.webcomponents.org/element/@polymer/lit-element)
 
 
 ## lit-html
